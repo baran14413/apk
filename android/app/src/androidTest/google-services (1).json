@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137528078260",
+    "project_id": "bematch-f168d",
+    "storage_bucket": "bematch-f168d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137528078260:android:844518ab8ed974ed200ce1",
+        "android_client_info": {
+          "package_name": "com.bematch.bematch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ruKG48gh5ozajc7m2Z2YMboqcXT8trE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
